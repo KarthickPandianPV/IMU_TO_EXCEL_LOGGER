@@ -1,0 +1,8 @@
+prefix=/home/karthick/Documents/IMU_TO_EXCEL_LOGGER/devel
+
+Name: logger
+Description: Description of logger
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -llogger
+Requires: roscpp std_msgs geometry_msgs

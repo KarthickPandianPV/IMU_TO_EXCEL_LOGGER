@@ -1,0 +1,2 @@
+logger
+-DCATKIN_DEVEL_PREFIX=/home/karthick/Documents/IMU_TO_EXCEL_LOGGER/devel -DCMAKE_INSTALL_PREFIX=/home/karthick/Documents/IMU_TO_EXCEL_LOGGER/install -G Unix Makefiles
